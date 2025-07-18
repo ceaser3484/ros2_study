@@ -1,2 +1,0 @@
-geometry_msg/Pointer center
-float64 radius
